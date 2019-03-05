@@ -21,13 +21,14 @@ p {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 400;
   font-size: 16px;
-  line-height: 34px;
+  line-height: 30px;
   color: #42413e;
   margin-top: 10px; }
 
 html,
 body {
   height: 100%; }
+
 
 .alignleft {
   float: left; }
@@ -126,6 +127,9 @@ a:focus {
   padding:15px 30px;
 }
 
+.job{
+  margin-bottom: 40px;
+}
 hr {
   border: 1px solid #42413e;
   width: 100px; }
