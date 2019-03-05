@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="172" height="44" viewBox="0 0 172 44">
+  <g fill="none" fill-rule="evenodd" transform="translate(-2)">
+    <g transform="translate(130)">
+      <ellipse cx="21.763" cy="22" fill="#5C877A" rx="21.763" ry="22"/>
+      <ellipse cx="22" cy="21.283" fill="#79AF9F" rx="21.054" ry="20.804"/>
+      <g transform="translate(17.978 3.002)">
+        <ellipse cx="7.702" cy="8.95" fill="#6A998C" rx="4.682" ry="5.89" transform="rotate(45 7.702 8.95)"/>
+        <ellipse cx="7.919" cy="7.99" fill="#79AF9F" rx="4.682" ry="5.89" transform="rotate(45 7.919 7.99)"/>
+        <ellipse cx="7.742" cy="7.574" fill="#6A998C" rx="3.804" ry="4.785" transform="rotate(45 7.742 7.574)"/>
+      </g>
+      <g transform="rotate(50 -5.716 15.398)">
+        <ellipse cx="4.725" cy="5.39" fill="#6A998C" rx="2.921" ry="3.675" transform="rotate(45 4.725 5.39)"/>
+        <ellipse cx="4.858" cy="4.781" fill="#79AF9F" rx="2.921" ry="3.675" transform="rotate(45 4.858 4.78)"/>
+        <ellipse cx="4.75" cy="4.517" fill="#6A998C" rx="2.374" ry="2.986" transform="rotate(45 4.75 4.517)"/>
+      </g>
+      <g transform="rotate(50 -19.167 32.224)">
+        <ellipse cx="6.072" cy="5.909" fill="#6A998C" rx="3.397" ry="4.273" transform="rotate(45 6.072 5.91)"/>
+        <ellipse cx="5.56" cy="5.617" fill="#79AF9F" rx="3.397" ry="4.273" transform="rotate(45 5.56 5.617)"/>
+        <ellipse cx="5.275" cy="5.503" fill="#6A998C" rx="2.76" ry="3.472" transform="rotate(45 5.275 5.503)"/>
+      </g>
+      <g transform="rotate(140 17.473 20.367)">
+        <ellipse cx="6.072" cy="5.909" fill="#6A998C" rx="3.397" ry="4.273" transform="rotate(45 6.072 5.91)"/>
+        <ellipse cx="5.56" cy="5.617" fill="#79AF9F" rx="3.397" ry="4.273" transform="rotate(45 5.56 5.617)"/>
+        <ellipse cx="5.275" cy="5.503" fill="#6A998C" rx="2.76" ry="3.472" transform="rotate(45 5.275 5.503)"/>
+      </g>
+      <g transform="translate(33.611 4.278)">
+        <path fill="#79AF9F" d="M4.88888889,2.32804233 L4.88888889,2.32804233 C7.07465076,2.32804233 8.84656085,4.09995242 8.84656085,6.28571429 L8.84656085,7.44973545 L0.931216931,7.44973545 L0.931216931,6.28571429 C0.931216931,4.09995242 2.70312702,2.32804233 4.88888889,2.32804233 Z" transform="rotate(50 4.889 4.889)"/>
+        <ellipse cx="5.058" cy="4.954" fill="#6A998C" rx="1.164" ry="2.328" transform="rotate(145 5.058 4.954)"/>
+      </g>
+    </g>
+    <text fill="#3A3939" font-family="Georgia-BoldItalic, Georgia" font-size="40" font-style="italic" font-weight="bold">
+      <tspan x="0" y="40">Works</tspan>
+    </text>
+  </g>
+</svg>

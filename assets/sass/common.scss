@@ -1,0 +1,139 @@
+@import "variables";
+@import "theme";
+@import "banner";
+
+
+footer{
+  text-align:center;
+  background: #2c2c2c;
+  padding:10px;
+  color:#808080;
+}
+
+.grey-box{
+  	background: #f3f3f3;
+    margin:60px 0px 0px 0px;
+
+}
+
+
+/* GREY DIV */
+#grey {
+	background: #f3f3f3;
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+
+#grey-2 {
+	background: #f3f3f3;
+	padding-bottom: 40px;
+	padding-top: 0px;
+}
+
+/* Grey Section */
+section:nth-of-type(odd) {
+ 	background: #f3f3f3;
+}
+
+.background-image-holder {
+	position: absolute;
+	top: 0px;
+	height: 100%;
+	width: 100%;
+	background-size: cover !important;
+	z-index: 0;
+	background-position: 50% 50% !important;
+}
+
+.side-image {
+	padding: 0px;
+	position: relative;
+}
+.side-image .image-container {
+	overflow: hidden;
+	position: absolute;
+	height: 100%;
+	padding: 0px;
+	top: 0px;
+}
+.side-image .image-container.pull-right {
+	right: 0px;
+}
+.side-image .content {
+	padding-top: 80px;
+	padding-bottom: 80px;
+}
+.side-image h1 {
+	margin-bottom: 40px;
+}
+.side-image p.lead {
+	margin-bottom: 64px;
+	font-size: 20px;
+}
+.side-image p {
+	font-size: 16px;
+}
+.side-image.text-heavy h1 {
+	margin-bottom: 32px;
+}
+.side-image.text-heavy p.lead {
+	margin-bottom: 40px;
+}
+.side-image.text-heavy .feature {
+	margin-top: 64px;
+}
+.side-image.text-heavy .feature h5 {
+	margin-bottom: 40px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+/* Configuration Blog Part */
+.w h5 {
+	text-transform: uppercase;
+	font-weight: 700;
+	margin-top: 20px;
+}
+
+.w hr{
+	border: 1px solid #2f2f2f;
+	width: 40px;
+}
+
+.w img {
+	width: 100%;
+	height: auto;
+}
+
+.w .date {
+	float: left;
+	border: 2px solid #2f2f2f;
+	margin-right: 15px;
+	padding: 5px;
+	margin-top: 10px;
+	width: 60px;
+	height: 60px;
+	text-align: center;
+}
+.w .date h4 {
+	font-weight: 700;
+	margin-bottom: -5px;
+	margin-top: 5px;
+	font-size: 14px;
+	text-transform: uppercase
+}
+
+.w .date bold {
+	font-weight: 900;
+	font-size: 16px;
+}
+
+.w .desc {
+	font-size: 14px;
+	margin-top: -15px;
+	color: #aeaeae;
+}
+
+h2.bold {
+	font-weight: 900;
+}
